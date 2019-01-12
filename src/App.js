@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <div id="boxx2"></div>
         <Top />
         <Content />
         <Bottom />
